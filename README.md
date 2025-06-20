@@ -1,12 +1,10 @@
-👋 Olá! Eu sou o Henrique Sbruzzi Franco Fernandes
-Desenvolvedor full stack apaixonado por tecnologia, inovação e soluções que impactam pessoas e negócios de verdade. Construo aplicações completas, escaláveis e com foco em performance — do back-end robusto ao front-end intuitivo.
+👋 Hello! I'm Henrique Sbruzzi Franco Fernandes
+A full-stack developer passionate about technology, innovation, and creating solutions that truly impact people and businesses. I build complete, scalable applications with a strong focus on performance — from robust back-end systems to intuitive front-end interfaces.
 
-💼 Sobre mim
-Sou estudante de Engenharia e Gestão de Sistemas de Informação, com grande entusiasmo pelo universo do desenvolvimento de software. Meu foco está em construir sistemas inteligentes, interfaces modernas e integrações eficientes, sempre alinhado às boas práticas.
+💼 About Me
+I'm currently pursuing a degree in Information Systems Engineering and Management, and I'm deeply enthusiastic about the world of software development. My focus is on building intelligent systems, modern interfaces, and efficient integrations, always aligned with best practices.
 
-
-🚀 Tecnologias Full Stack que utilizo
-
+🚀 Full-Stack Technologies I Use
 🧑‍🎨 Front-End
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
@@ -26,14 +24,14 @@ Sou estudante de Engenharia e Gestão de Sistemas de Informação, com grande en
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
 
-🛢️ Banco de Dados
+🛢️ Data Base
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
-☁️ DevOps & Ferramentas
+☁️ DevOps 
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
@@ -41,7 +39,7 @@ Sou estudante de Engenharia e Gestão de Sistemas de Informação, com grande en
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
 
-📦 Outros Essenciais
+📦 Others
 
 [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
@@ -52,15 +50,12 @@ Sou estudante de Engenharia e Gestão de Sistemas de Informação, com grande en
 
 
 
-🔌 Integração com APIs REST e bancos de dados relacionais e NoSQL
+🔌 Integration with REST APIs and both relational and NoSQL databases
+🎯 Development of modern, responsive, and accessible web interfaces
+🔐 Best practices in security, version control, and deployment
+📈 Passion for data, efficient back-end systems, and functional products
 
-🎯 Criação de interfaces web modernas, responsivas e acessíveis
-
-🔐 Boas práticas de segurança, versionamento e deploy
-
-📈 Interesse por dados, back-end eficiente e produtos funcionais
-
-📬 Vamos nos conectar?
+📬 Let's connect?
 📧 henrique.sbruzzi@icloud.com
 🔗 LinkedIn: www.linkedin.com/in/henrique-sbruzzi-franco-fernandes-8197662a8
 
