@@ -52,12 +52,17 @@ I'm currently pursuing a degree in Information Systems Engineering and Managemen
 
 
 🔌 Integration with REST APIs and both relational and NoSQL databases
+
 🎯 Development of modern, responsive, and accessible web interfaces
+
 🔐 Best practices in security, version control, and deployment
+
 📈 Passion for data, efficient back-end systems, and functional products
 
 📬 Let's connect?
+
 📧 henrique.sbruzzi@icloud.com
+
 🔗 LinkedIn: www.linkedin.com/in/henrique-sbruzzi-franco-fernandes-8197662a8
 
 
